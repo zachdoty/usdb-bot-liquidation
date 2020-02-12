@@ -1,1 +1,1 @@
-# usdb-bot-liquidation
+# usdb-liquidation-bot

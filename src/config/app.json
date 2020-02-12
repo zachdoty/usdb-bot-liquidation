@@ -1,0 +1,8 @@
+{
+    "network": "mainnet",
+    "zeroAddress": "0x0000000000000000000000000000000000000000",
+    "gas": 800000,
+    "name": "BUSD DApp",
+    "TELEGRAM_API_KEY": "",
+    "TELEGRAM_CHAT_ID": ""
+}
